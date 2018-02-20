@@ -1,0 +1,23 @@
+{
+  "name": "@maxrru/terraria-calculator-client",
+  "version": "0.1.0",
+  "description": "The web application frontend for the terraria calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxrru/terraria-calculator-client.git"
+  },
+  "keywords": [
+    "terraria",
+    "react"
+  ],
+  "author": "Max Ungar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxrru/terraria-calculator-client/issues"
+  },
+  "homepage": "https://github.com/maxrru/terraria-calculator-client#readme"
+}
