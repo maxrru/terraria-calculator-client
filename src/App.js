@@ -1,8 +1,16 @@
-import React, {Component} from 'react'
+import React, { Component } from 'react'
 import { Alert } from 'react-bootstrap'
+import SearchBar from './SearchBar'
+import Heading from './Heading'
+
 
 export default class App extends Component {
   render () {
-    return <Alert bsStyle="warning">This is my new react app</Alert>
+    return (
+    <div>
+      <Heading />
+      <SearchBar />
+    </div>
+    )
   }
 }
