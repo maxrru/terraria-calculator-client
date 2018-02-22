@@ -1,7 +1,9 @@
 import React, { Component } from 'react'
 import { Alert } from 'react-bootstrap'
-import SearchBar from './SearchBar'
+
 import Heading from './Heading'
+import AccessoryList from './AccessoryList'
+import SearchBar from './SearchBar'
 import StatsBox from './StatsBox'
 
 export default class App extends Component {
@@ -11,7 +13,7 @@ export default class App extends Component {
       <Heading />
       <SearchBar />
       <div style={{ display: 'flex', justifyContent: 'space-around'}}>
-        <div></div>
+        <AccessoryList />
         <StatsBox />
       </div>
     </div>
