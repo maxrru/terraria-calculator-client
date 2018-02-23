@@ -5,11 +5,9 @@ import ItemDisplayElement from '../ItemDisplayElement'
 export default () => (
   <Panel>
     <Panel.Heading>
-      <Panel.Title componentClass='h2'>Accessories</Panel.Title>
+      <Panel.Title componentClass='h2'>Armor</Panel.Title>
     </Panel.Heading>
     <Panel.Body>
-      <ItemDisplayElement />
-      <ItemDisplayElement />
       <ItemDisplayElement />
       <ItemDisplayElement />
       <ItemDisplayElement />

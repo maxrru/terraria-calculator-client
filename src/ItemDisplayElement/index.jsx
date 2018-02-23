@@ -8,7 +8,7 @@ export default () => (
       <ul>
         <li>Stat1</li>
         <li>Stat2</li>
-        <li>Stat2</li>
+        <li>Stat3</li>
       </ul>
     </div>
   </div>
